@@ -1,0 +1,16 @@
+********** PERSONAL INFORMATION **********
+Enter Your Name:Madeena Beebi
+Enter Your Age:21
+Enter Your Email:madeenabeebi@gmail.com
+Enter Your Phone Number:9876543210
+Enter Your Course:PYTHON
+Enter Your Location:Vizag
+
+********** PERSONAL PROFILE **********
+ Name:Madeena Beebi
+ Age:21
+ Email:madeenabeebi@gmail.com
+ Phone Number:9876543210
+ Course:PYTHON
+ Location:Vizag
+***************************************
